@@ -1,10 +1,4 @@
-
-//This software is the copyrighted work of Micro Focus and/or its suppliers. 
-//getCheckpointRecords for Davymart
-//Updated 11/09/2012
-//04/11/14 update -ignores backlog traces, now created using CheckForST_Stories
-
-import com.starbase.caliber.*;
+﻿import com.starbase.caliber.*;
 import com.starbase.caliber.server.*;
 import com.starteam.Item;
 import com.starteam.LinkValue;
